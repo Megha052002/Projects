@@ -10,7 +10,7 @@ This module tested: all possible combinations from 0 to 31 and, separately, two 
 
 Test 1: Simulation results from the Verilog representation of this Behavioral Adder **(All possible combinations from 0 to 31)**
 
-![Project_1 Waveform for Test 1](Project_1/behavioral_adder_64/Simulation Waveforms/project1_test_E.png)
+![Project_1 Waveform for Test 1](https://github.com/Megha052002/Projects/blob/main/Project_1/behavioral_adder_64/Simulation%20Waveforms/project1_test_E.png)
 
 Test 2: Simulation results from the Verilog representation of this Behavioral Adder **(Two large 32-bit integers)**
 
