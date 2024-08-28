@@ -15,42 +15,42 @@ Design a digital controller to control traffic at an intersection of a busy main
 
 Simulation results from test A of the Traffic Light Controller module **(No traffic on either NS or EW)**
 
-![Project_2 Waveform for Test A]()
+![Project_2 Waveform for Test A](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_A.png)
 
 
 Simulation results from test B of the Traffic Light Controller module **(Steady traffic on both NS and EW)**
 
-![Project_2 Waveform for Test B]()
+![Project_2 Waveform for Test B](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_B.png)
 
 
 Simulation results from test C of the Traffic Light Controller module **(Steady traffic on NS, not EW)**
 
-![Project_2 Waveform for Test C]()
+![Project_2 Waveform for Test C](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_C.png)
 
 
 Simulation results from test D of the Traffic Light Controller module **(Steady traffic on EW, not NS)**
 
-![Project_2 Waveform for Test D]()
+![Project_2 Waveform for Test D](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_D.png)
 
 
 Simulation results from test E of the Traffic Light Controller module **(Intermittent traffic on NS, none on EW)**
 
-![Project_2 Waveform for Test E]()
+![Project_2 Waveform for Test E](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_E.png)
 
 
 Simulation results from test F of the Traffic Light Controller module **(Intermittent traffic on EW, none on NS)**
 
-![Project_2 Waveform for Test F]()
+![Project_2 Waveform for Test F](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_F.png)
 
 
 Simulation results from test G of the Traffic Light Controller module **(Intermittent traffic on both NS and EW, e.g. 1 car every 20 or 30 seconds)**
 
-![Project_2 Waveform for Test G]()
+![Project_2 Waveform for Test G](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_G.png)
 
 
 Simulation results from test H of the Traffic Light Controller module **(Constant ongoing traffic detected on both NS and EW)**
 
-![Project_2 Waveform for Test H]()
+![Project_2 Waveform for Test H](https://github.com/Megha052002/Projects/blob/b4cbecad7390a6291c540e65bad86be3a03d24ec/Project_2/Simulation%20Waveforms/project2_test_H.png)
 
 ## Source Files
 
